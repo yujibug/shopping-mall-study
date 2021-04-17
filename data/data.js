@@ -6,7 +6,6 @@ const colorType = ['blue', 'pink', 'yellow'],
     sizeType = ['large', 'small'];
 
 let apparels = [];
-    // numberOfapprels = colorType.length * clothingType.length * sexType.length * sizeType.length;
 let apparelobj = new Object(),
     apparel = new Object();
 
